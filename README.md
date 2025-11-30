@@ -1,4 +1,7 @@
 # fear_and_greed_index
+
+Modified from gman4774. extract all index from cnn data
+
 Small bit of code to extract cnn fear and greed historical data in python.
 
 I got pointed in the right direction from https://github.com/hackingthemarkets/sentiment-fear-and-greed.
