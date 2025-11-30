@@ -6,7 +6,7 @@ from datetime import datetime
 
 BASE_URL = "https://production.dataviz.cnn.io/index/fearandgreed/graphdata/"
 START_DATE = '2020-09-19'
-END_DATE = '2022-06-02'
+END_DATE = '2025-11-30'
 ua = UserAgent()
 
 headers = {
